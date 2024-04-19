@@ -1,0 +1,1 @@
+# typeScrtipt bioler plate
